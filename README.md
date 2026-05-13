@@ -47,4 +47,3 @@ The dashboard helps users understand:
 - Chevrolet recorded strong YTD sales performance.
 - Weekly sales showed significant growth in later weeks.
 
----
